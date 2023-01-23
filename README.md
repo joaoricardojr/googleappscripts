@@ -76,7 +76,7 @@ function autoFillGoogleDocFromForm(e) {
 ```
 <br>
 <br>
-Now, if you form is already created with the proper fields, then answering it should generate a new file with string1 on its name and with all the information replaced and an image to be placed as you like on the new document.
+Now, if your form is already created with the proper fields, then answering it should generate a new file with string1 on its name and with all the information replaced and an image to be placed as you like on the new document.
 
 <h3> Important! ❗ </h3>
 Please always click "run" after saving the code on AppScript. Google asks for permission on every access you do inside the macro so you might bump into some erros of permission if you haven't clicked in "run on the AppScript Editor.
