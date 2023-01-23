@@ -1,5 +1,5 @@
 # Google App Scripts
-My google app scripts and all the thigs necessary to create automation with google docs that i've been playing with.
+My google app scripts and all the necessary to create automation with google docs that i've been playing with.
 
 <p>Google App Script uses a variation of JS called GS,  there are some similarities regarding edentation and coding but a complete reference to GS can be found here</p>
   <br><br><br>
